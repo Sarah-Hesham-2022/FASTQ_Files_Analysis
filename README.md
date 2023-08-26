@@ -44,15 +44,3 @@ Data Analysis for Genomics, FASTQ File Structure and Analysis using Python.
 ![21](https://github.com/Sarah-Hesham-2022/FASTQ_Files_Analysis/assets/112272836/fac3796d-7c9e-4682-9e9b-5617f81ed340)
 
 ![22](https://github.com/Sarah-Hesham-2022/FASTQ_Files_Analysis/assets/112272836/8a09899a-fade-4c69-b841-3aac50d0b233)
-
-
-
-
-
-
-
-
-
-
-
-
